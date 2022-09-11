@@ -1,0 +1,23 @@
+Familia,Peso ( Kg ),InventoryUoMName,InventoryValuationMethod_E,Es artículo de Inventario,Es artículo de compras,Es artículo de ventas,ItemCode,ItemDescriptionAndCode,Descripción del artículo,ItemGroupName,El articulo esta activo,Sub - Familia
+,0.2,Unidad,Moving Average,Y,Y,Y,100402405101,ALMENDRA CUBIERTA CON CHOCOLATE DE LECHE BL 200gr. (100402405101),Almendra Cubierta Con Chocolate De Leche Bl 200Gr.,Prod. Terminado,Y,
+,0.2,Unidad,Moving Average,Y,Y,Y,140201405101,CRANBERRY ENTERO  CUBIERTA CHOCOLATE BITTER BL.200 gr. (140201405101),Cranberry Entero  Cubierta Chocolate Bitter Bl.200 Gr.,Prod. Terminado,Y,
+,0.2,Unidad,Moving Average,Y,Y,Y,140202405101,CRANBERRY CUBIERTA CHOCOLATE LECHE BL. 200 gr. (140202405101),Cranberry Cubierta Chocolate Leche Bl. 200 Gr.,Prod. Terminado,Y,
+,1,Kilogramos,Moving Average,Y,Y,Y,100402408101,ALMENDRAS CUBIERTAS CON CHOCOLATE DE LECHE BL 1 Kg (100402408101),Almendras Cubiertas Con Chocolate De Leche Bl 1 Kg,Prod. Terminado,N,
+,1,Kilogramos,Moving Average,Y,Y,Y,100402409101,ALMENDRAS CUBIERTAS CON CHOCOLATE DE LECHE BL 5 Kg (100402409101),Almendras Cubiertas Con Chocolate De Leche Bl 5 Kg,Prod. Terminado,Y,
+,1,Kilogramos,Moving Average,Y,Y,Y,140101110103,CRANBERRY PARTIDOS CUBIERTOS CON CHOC. BITTER (140101110103),Cranberry Partidos Cubiertos Con Choc. Bitter,Materias Primas,N,
+,1,Kilogramos,Moving Average,Y,Y,Y,140101110104,CRANBERRY PARTIDOS CUBIERTOS CON CHOC. BLANCO (140101110104),Cranberry Partidos Cubiertos Con Choc. Blanco,Materias Primas,N,
+,1,Kilogramos,Moving Average,Y,Y,Y,140201408102,CRANBERRY ENTERO  CUBIERTA CHOCOLATE BITTER BL. 1KG (140201408102),Cranberry Entero  Cubierta Chocolate Bitter Bl. 1Kg,Prod. Terminado,N,
+,1,Kilogramos,Moving Average,Y,Y,Y,140201409102,CRANBERRY ENTERO  CUBIERTA CHOCOLATE BITTER BL. 5KG (140201409102),Cranberry Entero  Cubierta Chocolate Bitter Bl. 5Kg,Prod. Terminado,Y,
+,1,Kilogramos,Moving Average,Y,Y,Y,140202408102,CRANBERRY CUBIERTA CHOCOLATE LECHE BL. 1KG (140202408102),Cranberry Cubierta Chocolate Leche Bl. 1Kg,Prod. Terminado,Y,
+,1,Kilogramos,Moving Average,Y,Y,Y,140202409101,CRANBERRY CUBIERTA CHOCOLATE LECHE BL. 5KG (140202409101),Cranberry Cubierta Chocolate Leche Bl. 5Kg,Prod. Terminado,Y,
+Berries,1,Kilogramos,Moving Average,Y,Y,Y,140203409101,CRANBERRY CUBIERTA CHOCOLATE BLANCO BL. 5KG (140203409101),Cranberry Cubierta Chocolate Blanco Bl. 5Kg,Prod. Terminado,Y,Cranberries Leche
+Chocolates,0.2,Unidad,Moving Average,Y,Y,Y,100401405101,ALMENDRA CUBIERTA CON CHOCOLATE BITTER BL 200gr. (100401405101),Almendra Cubierta Con Chocolate Bitter Bl 200Gr.,Prod. Terminado,Y,Almendra Bitter
+Chocolates,0.2,Unidad,Moving Average,Y,Y,Y,260501405101,MANI CUBIERTA CHOCOLATE BITTER BL. 200gr. (260501405101),Mani Cubierta Chocolate Bitter Bl. 200Gr.,Prod. Terminado,Y,Maní Bitter
+Chocolates,0.2,Unidad,Moving Average,Y,Y,Y,260502405101,MANI CUBIERTA CHOCOLATE LECHE BL. 200gr. (260502405101),Mani Cubierta Chocolate Leche Bl. 200Gr.,Prod. Terminado,Y,Maní Leche
+Chocolates,1,Kilogramos,Moving Average,Y,Y,Y,100401408102,ALMENDRA CUBIERTAS CON CHOCOLATE BITTER BL 1 Kg. (100401408102),Almendra Cubiertas Con Chocolate Bitter Bl 1 Kg.,Prod. Terminado,N,Almendra Bitter
+Chocolates,1,Kilogramos,Moving Average,Y,Y,Y,100401409101,ALMENDRA CUBIERTAS CON CHOCOLATE BITTER Cj 5 Kg. (100401409101),Almendra Cubiertas Con Chocolate Bitter Cj 5 Kg.,Prod. Terminado,Y,Almendra Bitter
+Chocolates,1,Kilogramos,Moving Average,Y,Y,Y,100402409102,ALMENDRAS CUBIERTAS CON CHOCOLATE BITTER (100402409102),Almendras Cubiertas Con Chocolate Bitter,Prod. Terminado,N,Almendra Bitter
+Chocolates,1,Kilogramos,Moving Average,Y,Y,Y,260501408102,MANI CUBIERTA CHOCOLATE BITTER BL. 1KG (260501408102),Mani Cubierta Chocolate Bitter Bl. 1Kg,Prod. Terminado,Y,Maní Bitter
+Chocolates,1,Kilogramos,Moving Average,Y,Y,Y,260501409102,MANI CUBIERTA CHOCOLATE BITTER BL. 5KG (260501409102),Mani Cubierta Chocolate Bitter Bl. 5Kg,Prod. Terminado,Y,Maní Bitter
+Chocolates,1,Kilogramos,Moving Average,Y,Y,Y,260502408101,MANI CUBIERTA CHOCOLATE LECHE BL. 1KG. (260502408101),Mani Cubierta Chocolate Leche Bl. 1Kg.,Prod. Terminado,N,Maní Leche
+Chocolates,1,Kilogramos,Moving Average,Y,Y,Y,260502409101,MANI CUBIERTA CHOCOLATE LECHE BL. 5KG (260502409101),Mani Cubierta Chocolate Leche Bl. 5Kg,Prod. Terminado,Y,Maní Leche
