@@ -1,0 +1,7 @@
+vendedor,rut_vendedor,,numero_bodega,local,ubicacion,,codigo_producto,producto,precio,existencia,stock,,numero_boleta,cantidad_vendida,rut_cliente,nombre_cliente,,
+Don Cristian,666666666,,40,Los Estudiantes,Viña del Mar,,6,leche,900,1,10,,324,1,56434513,Angela,,
+Juan Pérez,33333333,,21,Las Rosas,Providencia,,6,leche,900,1,10,,326,1,42537634,Ernesto,,
+Jorge,444444444,,35,Los Pinos,Los Leones,,43,te,2000,TRUE,30,,534,1,77777777,Fernando,,
+Rosita,7777777,,,,,,64,queso,2000,TRUE,70,,537,1,123267845,Iván,,
+Luisita,88888888,,,,,,25,cafe,1500,Si,40,,7569,1,4537145,Felipe,,
+,,,,,,,25,cafe,1500,Si,40,,75643,1,3332323,Cristian,,
