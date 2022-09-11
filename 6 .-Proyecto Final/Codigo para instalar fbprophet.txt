@@ -1,0 +1,9 @@
+I had faced same problem. I used "conda" rather than "pip" for installation with steps shown below and it worked magical for me.
+
+step 1: conda install -c anaconda ephem
+
+step 2:conda install -c conda-forge pystan
+
+step 3: conda install -c conda-forge fbprophet
+
+Now you can go ahead with : "from fbprophet import Prophet" in python environment.
